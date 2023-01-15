@@ -149,3 +149,6 @@ img:hover {
     text-align: center;
 }
 
+input[type="number"] {
+    width: 20%;
+}
